@@ -1,0 +1,9 @@
+Variable: Una variable es una manera de guardar algo en una caja "invisible" para poder utilizarla luego. La estructura de una variable en javascript es: var (palabra clave) + nombre de la variable + = + valor que desea asignar. Por ejemplo: var ejemploVar = 1
+
+Strings: las strings son bloque de textos que se escriben siempre entre comillas o comillas dobles. Por ejemplo: "a", 'Hola mundo', "123.22".
+
+Return: la declaración "return" se usa para salir o detener una función, una vez que la función se topa con un return detiene lo que está haciendo y devuelve lo especificado.
+
+if: if es un operador de flujo y comparación, se usa para tomar decisiones. Según lo especificado, evalúa si la expresión da como resultado positivo, y realiza las acciones relacionadas con ese caso. En caso de que la expresión de como resultado negativo, realiza las acciones relacionadas con ese caso.
+
+valores booleanos: los valores booleanos son valores que tiene como fin simplemente 2 opciones, verdadero o falso.
