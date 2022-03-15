@@ -1,0 +1,8 @@
+for: For es una expresión de bucle, quiere decir que evalua expresiones una y otra vez hasta que llegue al resultado esperado o se detiene luego de cierto tiempo.
+
+&&: && es un operador logico, quiere decir AND o Y. Evalua las expresiones y si todas son true, devuelve true, en cualquier otro caso, devolverá false.
+
+||: || es otro operador logico que quiere decir OR o O. Evalua las expresiones y si todas son son false, devuelve false, en cualquier otro caso devuelve true.
+
+!: ! es el operador logico de la negación, quiere decir NOT o NO. Evalua las expresiones y devuelve su valor booleano contrario.
+
