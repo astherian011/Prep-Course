@@ -1,0 +1,1 @@
+arrays: los arrays son variables que pueden guardar distintos tipos de valores, independientemente de su naturaleza. Por ejemplo, un array puede guardar numeros, strings, booleanos, nulls, etc
