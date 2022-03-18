@@ -1,0 +1,9 @@
+Objetos: los objetos son contenedores utilizados para guardar datos. Suelen utilizarse para guardar mucha información sobre una sola cosa.
+
+Propiedades: las propiedades de un objeto son las "claves" o identificadores. Son unicas dentro de un objeto, por lo que su nombre no puede repetirse.
+
+Metodos: Los metodos son las funciones guardadas en un objeto. Se utiliza para invocar una propiedad de un objeto usando un . y parentesis al final.
+
+For in: los bucles for in se utilizan para recorrer los objetos y poder acceder a cada una de sus propiedades.
+
+Notación de puntos vs corchetes: La notación de puntos se suele utilizar para acceder y agregar propiedades y valores de manera rapida y sencilla. La notación de corchetes es otra manera de hacerlo, sin embargo suele ser mas extenso y a la vez mas facil de interpretar. 
