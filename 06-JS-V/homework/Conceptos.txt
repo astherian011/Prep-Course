@@ -1,0 +1,3 @@
+prototypes: prototype es una propiedad que se usa para agregar propiedades y metodos a una clase. Sirve para que todos los objetos de la clase compartan las propiedades y metodos declarados.
+
+Constructors: los constructors o clases se utilizan para crear muchos objetos que comparten las mismas propiedades y metodos. 
