@@ -7,8 +7,7 @@
                 width:500px;
                 background-color: bisque;
                 padding: 50px;
-                border: 50px;
-                border-color: brown;
+                border: 50px solid blueviolet;
             }
             #spanId{
                 font-size:18px;
